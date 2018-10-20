@@ -1,0 +1,6 @@
+c:\users\student\documents\visual studio 2015\Projects\k30181020\k30181020\bin\Debug\k30181020.exe.config
+c:\users\student\documents\visual studio 2015\Projects\k30181020\k30181020\obj\Debug\k30181020.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2015\Projects\k30181020\k30181020\bin\Debug\k30181020.exe
+c:\users\student\documents\visual studio 2015\Projects\k30181020\k30181020\bin\Debug\k30181020.pdb
+c:\users\student\documents\visual studio 2015\Projects\k30181020\k30181020\obj\Debug\k30181020.exe
+c:\users\student\documents\visual studio 2015\Projects\k30181020\k30181020\obj\Debug\k30181020.pdb
